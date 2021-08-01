@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
+
+#txt {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background-image: url("./img/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
