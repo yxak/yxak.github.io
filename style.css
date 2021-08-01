@@ -1,8 +1,10 @@
 body {
     background-image: url("./img/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
-div.text {
+div.txt {
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
