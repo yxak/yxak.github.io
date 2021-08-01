@@ -3,7 +3,7 @@
 body {
         background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg);
         background-size: auto;
-        background-position: none;
+        background-repeat: no-repeat;
 }
 
 h1 {
