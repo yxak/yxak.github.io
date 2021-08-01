@@ -1,0 +1,8 @@
+body {
+    background-image: url("./img/bg.jpeg");
+}
+
+div.text {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
