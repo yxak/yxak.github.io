@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
 
-body {
-        background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg);
-        background-size: auto;
-        background-repeat: no-repeat;
-}
-
 h1 {
         font-family: 'Roboto Mono', monospace;
         text-align: center;
