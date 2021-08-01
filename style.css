@@ -4,10 +4,10 @@ body {
         background-color: black;
         background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg);
         background-size: cover;
-        background-position: center;
+        background-position: none;
 }
 
-div.inprog {
+div.in-prog {
         font-family: 'Roboto Mono', monospace;
         text-align: center;
         color: white;
