@@ -3,6 +3,7 @@
 body {
     background-image: url('https://i.gifer.com/Ettd.gif');
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: 'Courier New', Courier, monospace;
 }
 
