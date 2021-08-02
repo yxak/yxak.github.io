@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
 
-h1 {
+body {
+    background-image: url('http://24.media.tumblr.com/tumblr_m7h8e4xbMu1qiq1olo1_500.gif');
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2 {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
 }
