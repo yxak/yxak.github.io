@@ -1,28 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
 
 body {
-    background-image: url("https://giffiles.alphacoders.com/253/2535.gif");
+    background-image: url("https://sci.esa.int/documents/34247/35306/HST_HCV_1280px.gif/673cefec-596a-29e9-9f45-e755ca87c359?version=1.0&t=1569331557508&imagePreview=1");
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Courier New', Courier, monospace;
 }
-
-
-.dahi {
-    box-shadow: 0 6px 7px 0 rgba(0,0,0,0.4);
-    transition: 0.5s;
-  }
-  
-.dahi:hover {
-    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.6);
-}
-  
-
-.container {
-    color: rgb(0,0,0);
-    padding: 20px 30px;
-}
-  
 
 h1, h2 {
     font-family: 'Roboto Mono', monospace;
