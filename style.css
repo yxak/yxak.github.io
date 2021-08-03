@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
 
 body {
-    background-image: url("https://thumbs.gfycat.com/ActiveBossyAlaskanmalamute-mobile.mp4");
+    background-color: black;
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .txt {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
-    color: aliceblue;
+    color: white;
 }
