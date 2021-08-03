@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@300&display=swap');
 
 body {
-    background-image: url("https://wallpaper.dog/large/791275.jpg");
+    background-image: url("https://gifs.alphacoders.com/gifs/view/2535");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Courier New', Courier, monospace;
@@ -9,17 +9,18 @@ body {
 
 
 .dahi {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,0.4);
     transition: 0.5s;
   }
   
 .dahi:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.6);
 }
   
 
 .container {
-    padding: 2px 16px;
+    color: rgb(0,0,0);
+    padding: 20px 30px;
 }
   
 
