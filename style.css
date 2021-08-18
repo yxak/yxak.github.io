@@ -10,3 +10,9 @@ h1 {
     text-align: center;
     color: white;
 }
+
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    color: white;
+}
